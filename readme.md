@@ -14,15 +14,6 @@ $ ruby directory.rb
 $ rspec
 ```
 
-## of note!
-
-```bash
-$ node directories.js
-$ ruby directories.rb
-$ python directories.py
-$ yarn start
-```
-
 ## The problem
 
  
