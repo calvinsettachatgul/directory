@@ -1,5 +1,15 @@
 # Directory tree
 
+
+## getting started
+
+install ruby 3.3.1
+$ bundle install
+$ ruby directory.rb
+
+## test
+$ rspec
+
 ## of note!
 
 ```bash
