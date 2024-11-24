@@ -14,6 +14,9 @@ $ ruby directory.rb
 $ rspec
 ```
 
+## notes
+input is currently read from input.txt within the root of this repo and will output to the command line
+
 ## The problem
 
  
